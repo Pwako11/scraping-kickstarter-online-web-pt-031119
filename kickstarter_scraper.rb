@@ -1,4 +1,5 @@
 # require libraries/modules here
+require"nokogiri"
 
 html = File.read ('fixtures/kickstarter.html')
 
